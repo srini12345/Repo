@@ -1,0 +1,12 @@
+C:\Users\257604\Desktop\FixBugProject\FixBugProject\ChangeDirProject\bin\Debug\ChangeDirProject.exe.config
+C:\Users\257604\Desktop\FixBugProject\FixBugProject\ChangeDirProject\bin\Debug\ChangeDirProject.exe
+C:\Users\257604\Desktop\FixBugProject\FixBugProject\ChangeDirProject\bin\Debug\ChangeDirProject.pdb
+C:\Users\257604\Desktop\FixBugProject\FixBugProject\ChangeDirProject\obj\Debug\ChangeDirProject.csprojResolveAssemblyReference.cache
+C:\Users\257604\Desktop\FixBugProject\FixBugProject\ChangeDirProject\obj\Debug\ChangeDirProject.exe
+C:\Users\257604\Desktop\FixBugProject\FixBugProject\ChangeDirProject\obj\Debug\ChangeDirProject.pdb
+C:\Users\257604\Downloads\GitRepo-master\ProficiencyTestProject\ChangeDirProject\bin\Debug\ChangeDirProject.exe.config
+C:\Users\257604\Downloads\GitRepo-master\ProficiencyTestProject\ChangeDirProject\bin\Debug\ChangeDirProject.exe
+C:\Users\257604\Downloads\GitRepo-master\ProficiencyTestProject\ChangeDirProject\bin\Debug\ChangeDirProject.pdb
+C:\Users\257604\Downloads\GitRepo-master\ProficiencyTestProject\ChangeDirProject\obj\Debug\ChangeDirProject.csprojResolveAssemblyReference.cache
+C:\Users\257604\Downloads\GitRepo-master\ProficiencyTestProject\ChangeDirProject\obj\Debug\ChangeDirProject.exe
+C:\Users\257604\Downloads\GitRepo-master\ProficiencyTestProject\ChangeDirProject\obj\Debug\ChangeDirProject.pdb
